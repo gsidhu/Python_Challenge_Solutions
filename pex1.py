@@ -1,3 +1,7 @@
+## Python Challenge Solutions
+## MIT License, 2014 Gurjot S. Sidhu
+
+
 def pex1():
     '''
     Answer: ocr

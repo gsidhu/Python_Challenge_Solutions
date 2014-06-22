@@ -1,3 +1,6 @@
+## Python Challenge Solutions
+## MIT License, 2014 Gurjot S. Sidhu
+
 def pex3():
     '''
     Answer: linkedlist
