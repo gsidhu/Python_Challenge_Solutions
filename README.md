@@ -1,4 +1,4 @@
-#The Python Challenge - Solutions
+##The Python Challenge - Solutions
 ===================
 
 [The Python Challenge](www.pythonchallenge.com) has a brilliant set of mind-bending exercises. Here I'll post the solutions to some of the exercises that I have been able to crack through. 
